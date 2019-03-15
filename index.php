@@ -18,7 +18,7 @@ else {
     <nav>
       <font size="250" face="courier new" >Juego de MicroRobots</font>
       <a href="usuarios.php">Jugadores TOP</a>
-      <a href="reguistro.php">Reguistro</a>
+      <a href="registro.php">Reguistro</a>
     </nav>
     <table border=1 cellpadding=4 cellspacing=0 width="100%">
      <tr>
